@@ -2,7 +2,7 @@
 
 # Default values for pyspark, spark-nlp, and SPARK_HOME
 SPARKNLP="5.5.3"
-PYSPARK="3.5.0"  # Change default to a compatible version
+PYSPARK="3.5.1"  # Change default to a compatible version
 
 while getopts s:p:g option
 do
