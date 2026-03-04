@@ -1,0 +1,6 @@
+<rail version="0.1">
+  <output>
+    <string name="decision" enum="approve,deny" required="true" />
+    <string name="reason" required="true" />
+  </output>
+</rail>
